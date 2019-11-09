@@ -1,0 +1,56 @@
+#body {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#submitted{
+    padding: 15px;
+}
+@media (min-width: 1200px){
+    .wrapper{
+        background: gray;
+    }
+
+    .content{
+        margin-left: 220px;
+        margin-right: 220px;
+
+        padding-left: 75px;
+        padding-right: 75px;
+        background-color: white;
+    }
+}
+
+.card {
+    border-width: 0px;
+    padding: 15px;
+}
+.a{
+    color:black;
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+}
+a:link {
+    color:black;
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+}
+.button {
+    background-color: beige;
+    border-width: 0px;
+    height: 50px;
+    width: 140px;
+}
+.card-text {
+    font-size: xx-small;
+    margin: 0;
+}
+.card-title {
+    margin: 0;
+}
+.logo-in-text {
+    height: 20px;
+    width: 56px;
+}
